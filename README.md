@@ -9,3 +9,13 @@ Terminal --> pip install pygame
 please ensure that you are using a compatible Python version
 
 enjoy!
+
+
+--v1.1 update
+settings option:
+-snake colour
+-background colour
+-food colour
+- 's' key to save the settings
+bug fix:
+-score board counter
