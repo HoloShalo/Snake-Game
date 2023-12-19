@@ -17,5 +17,6 @@ settings option:
 -background colour
 -food colour
 - 's' key to save the settings
+
 bug fix:
 -score board counter
